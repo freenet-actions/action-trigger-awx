@@ -1,3 +1,0 @@
-requests
-awxkit
-paho-mqtt
